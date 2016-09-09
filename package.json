@@ -1,7 +1,8 @@
 {
   "name": "metalsmith-servercomponents",
   "main": "lib/index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.0.1",
     "lodash": "^4.15.0",
@@ -13,5 +14,7 @@
     "eslint-plugin-import": "^1.14.0",
     "eslint-plugin-jsx-a11y": "^2.2.1",
     "eslint-plugin-react": "^6.2.0"
-  }
+  },
+  "repository": "bfncs/metalsmith-servercomponents",
+  "homepage": "https://github.com/bfncs/metalsmith-servercomponents"
 }
