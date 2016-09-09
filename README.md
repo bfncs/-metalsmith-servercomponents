@@ -2,7 +2,15 @@
 
 A [Metalsmith](https://github.com/metalsmith/metalsmith) plugin for lightweight server-side custom HTML elements.
 
-This plugins enables the usage of custom HTML elements – broadly following the [spec](http://w3c.github.io/webcomponents/spec/custom/) – in Metalsmith projects. 
+This plugins enables the usage of custom HTML elements – broadly following the [spec](http://w3c.github.io/webcomponents/spec/custom/) – in Metalsmith projects.
+
+## Installation
+
+Install in your metalsmith project using:
+
+```
+npm install metalsmith-permalinks
+````
 
 ## Usage
 
