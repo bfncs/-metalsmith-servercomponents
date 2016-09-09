@@ -9,7 +9,7 @@ This plugins enables the usage of custom HTML elements – broadly following the
 Install in your metalsmith project using:
 
 ```
-npm install metalsmith-permalinks
+npm install metalsmith-servercomponents
 ````
 
 ## Usage
